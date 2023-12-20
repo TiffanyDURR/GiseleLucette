@@ -56,4 +56,11 @@ video {
   background-color: #ffffff;
   border-radius: 40px;
   object-fit: cover;
+  margin-bottom: 20px;
+}
+
+img.propal {
+  object-fit: cover;
+  height: 440px;
+  width: 974px;
 }
